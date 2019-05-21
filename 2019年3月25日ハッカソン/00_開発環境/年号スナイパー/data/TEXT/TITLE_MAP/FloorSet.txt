@@ -1,0 +1,10 @@
+FLOOR_SET
+
+	POS = 0 0 0
+	SIZE = 1000 0 1000
+	COL = 0.5 0.5 0.5 1.0
+	UV = 50.0 50.0
+	TYPE = 0
+	COLTYPE = 1
+
+FLOOR_END
